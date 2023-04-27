@@ -9,6 +9,6 @@ const fibonacci = function (count) {
     a = temp;
   }
   return b;
-};
 
+};
 module.exports = fibonacci;
